@@ -1,0 +1,44 @@
+body {
+	background-image: url("https://shoutitout-a.akamaihd.net/wp-content/uploads/2016/10/90s-website-style.jpg")
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	font-size: 8vw;
+	font-family: Comic Sans MS;
+	width: 100%;
+}
+
+div {
+	color: red;
+	text-align: center;
+	font-size: 3vw;
+	font-family: Courier;
+	font-weight: 700;
+}
+
+span {
+	color: white;
+	text-align: center;
+	font-size: 2vw;
+	font-family: Impact;
+	font-weight: 800;
+	width: 40%;
+}
+
+img {
+	width: 50%;
+}
+
+.helv {
+	font-family: Helvetica;
+	color: white;
+	-webkit-text-stroke: 2px blue;
+}
+
+.verd {
+	font-family: Verdana;
+	text-shadow: 4px 4px black;
+	color: #56D856;
+}
